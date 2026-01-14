@@ -10,5 +10,5 @@ pip install git+https://github.com/nasa/pysa
 ```
 2. Dependencies:
 ```
-more_itertools matplotlib tqdm pandas numpy
+pip install more_itertools matplotlib tqdm pandas numpy
 ```
